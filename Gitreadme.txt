@@ -9,3 +9,7 @@
 "name of remote repository" 
 9. git push name  branchName               add to the master
 10. git branch branchName                  create a new branch
+11. git clone "SSH Key"                    to clone a repository onto your local repository
+12. git branch branchName      		   to create a new branch
+13. git checkout branchName
+14.
